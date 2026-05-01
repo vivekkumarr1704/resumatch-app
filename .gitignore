@@ -55,3 +55,6 @@ replit.md
 
 # Uploaded files (user data, not code)
 artifacts/api-server/uploads/
+.env
+.env.local
+.env.*.local
